@@ -1,6 +1,5 @@
-# ScoopBucket
-A bucket to install my programs using Scoop (http://scoop.sh/)
-
+# scoop-bucket
+A Scoop bucket to install my programs on Windows (http://scoop.sh/)
 
 
 ## TO-DO: Need to add json files for programs to this bucket. (See list below)
