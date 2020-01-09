@@ -1,8 +1,9 @@
 # ScoopBucket
 A bucket to install my programs using Scoop (http://scoop.sh/)
 
-## To-do
-### Still need to add json files for programs to this bucket. (See list below)
+
+
+## TO-DO: Need to add json files for programs to this bucket. (See list below)
 
 ## How to use
 
